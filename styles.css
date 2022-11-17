@@ -1,0 +1,82 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    height: 100%;
+}
+
+header {
+    width: 100%;
+}
+
+header h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    color: gold;
+    font-family: Pacifico;
+}
+
+main {
+    font-family: "Indie Flower";
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    height: 80px;
+    color: antiquewhite;
+    border: 1px solid gold;
+}
+
+td {
+    border: 1px solid gold;
+    height: 50px;
+    color: black;
+    padding: 10px 5px;
+}
+
+.first-row {
+    background-color: papayawhip;
+}
+
+.second-row {
+    background-color: peru;
+}
+
+.third-row {
+    background-color: bisque;
+}
+
+.fourth-row {
+    background-color: peru;
+}
+
+.fifth-row {
+    background-color: beige;
+}
+
+.sixth-row {
+    background-color: sienna;
+}
+
+span {
+    color: red;
+    font-weight: bold;
+}
+
+footer h3 {
+    color: gold;
+    text-align: center;
+    vertical-align: middle;
+    height: 50px;
+    line-height: 50px;
+}
