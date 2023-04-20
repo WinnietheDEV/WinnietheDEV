@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WinnietheDEV
-- 👀 I’m interested in Programming(especilly WebDev)
-- 🌱 I’m currently learning Full Stack Web Dev (MERN stack)
-- 📫 How to reach me : email- WorldWhyWin@gmail.com 
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Full Stack Web Development (MERN stack)
+- 📫 How to reach me : email- nawin.dev.th@gmail.com 
 
 <!---
 WinnietheDEV/WinnietheDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
